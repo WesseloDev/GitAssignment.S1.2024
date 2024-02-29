@@ -65,3 +65,5 @@ DevOps is a methodology that intends to create a more cohesive and high-speed de
 2. Git - a version control system that's used for managing source code, and can be used for collaborative development.
 3. Maven - a build automation and project management tool that streamlines compilation, testing, packaging and distribution.
 
+#### 15. What is CI/CD and how can it be used to automate the game development process?
+CI/CD stands for continuous integration and continuous deployment. Small code changes are made frequently, and automatic steps taken to make sure that the code is reliable. The code is then delievered. In the game development process, it can be used to automatically make new builds when you make changes to your code, allowing you to test things a lot quicker, have a history of your builds, or send your builds somewhere like itch or Steam to let beta testers try out your builds.
