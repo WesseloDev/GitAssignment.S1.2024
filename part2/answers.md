@@ -56,3 +56,7 @@ False
 
 #### 12. True or False: You should commit related changes. For example, fixing two different bugs should produce two separate commits.
 True
+
+#### 13. What is DevOps, how is it useful for game developers?
+DevOps is a methodology that intends to create a more cohesive and high-speed development cycle by integrating and automating the work of software development and operations. It's useful for game developers because it makes game development more efficient and reliable. It also automates building, testing and deployment of games.
+
