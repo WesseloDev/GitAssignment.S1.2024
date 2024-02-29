@@ -53,3 +53,6 @@ git revert only reverts the changes of one commit. git reset can revert the chan
 
 #### 11. True or False: It is okay to commit broken code to the main branch.
 False
+
+#### 12. True or False: You should commit related changes. For example, fixing two different bugs should produce two separate commits.
+True
