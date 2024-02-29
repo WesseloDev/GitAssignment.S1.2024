@@ -17,3 +17,7 @@ It's useful for game developers because collaborating on projects is an importan
 - repository: the place that stores your code and files for the project that you're currently working on. It tracks and saves all of the changes that are made to it.
 - working copy: a local repository on your computer. The changes made on your working copy won't show up in the repository unless you commit and push the changes.
 - merge: combining two different branches into one. The changes made in one branch will be added to another branch.
+
+#### 4. If you are working at a company, which of their policies and procedures might relate to using version control systems such as Git.
+- WHS
+- Copyright
