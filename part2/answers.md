@@ -44,3 +44,6 @@ When you try to merge a file with conflicting changes, Git will tell you that th
 
 #### 8. What does git revert do, and how can you use it?
 git revert makes a new commit that removes the changes of a given commit. You can use it to revert a commit that somebody made that added a bug or some faulty code.
+
+#### 9. What does git reset do, and how can you use it? 
+git reset undoes all changes made to a local repository up to a specified commit. You can use it to revert multiple commits at once and go back to a previous point.
