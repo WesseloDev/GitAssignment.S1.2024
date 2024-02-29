@@ -14,3 +14,4 @@ It's useful for game developers because collaborating on projects is an importan
 - branch: a separate copy of your repository, that can have different changes made in comparison to your main or other branches. It serves as a snapshot of a specific point of your repository that you can make changes to from there, or merge into other branches.
 - pull: asking for the most up to date version of your repository, and receiving all of the changes and new files that have happened since you last pulled.
 - push: sending any changes that you've made to your repository.
+- repository: the place that stores your code and files for the project that you're currently working on. It tracks and saves all of the changes that are made to it.
