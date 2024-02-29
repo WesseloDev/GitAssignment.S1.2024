@@ -42,3 +42,5 @@ When you try to merge a file with conflicting changes, Git will tell you that th
 6. Stage your changes and commit them.
 7. You can now merge your conflicting branches.
 
+#### 8. What does git revert do, and how can you use it?
+git revert makes a new commit that removes the changes of a given commit. You can use it to revert a commit that somebody made that added a bug or some faulty code.
