@@ -50,3 +50,6 @@ git reset undoes all changes made to a local repository up to a specified commit
 
 #### 10. What is the difference between git revert and git reset?
 git revert only reverts the changes of one commit. git reset can revert the changes of multiple commits.
+
+#### 11. True or False: It is okay to commit broken code to the main branch.
+False
