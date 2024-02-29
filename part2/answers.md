@@ -32,3 +32,13 @@ It's useful for game developers because collaborating on projects is an importan
 
 #### 6. In a merged source code file, how does Git let you know there is a conflict?
 When you try to merge a file with conflicting changes, Git will tell you that there is a conflict in that file and will not merge the branches.
+
+#### 7. What are the steps you can take to resolve Git conflicts?
+1. Find out what files are affected by the merge conflict - you can do this by running git status in your working copy.
+2. Open the file in Visual Studio Code or another text editor.
+3. Navigate to the conflict. There will be a ``<<<<<<<`` where the conflict starts, and a ``=======`` separating the changes from the main branch and your current branch.
+4. Decide which change you want to keep, or make a new change.
+5. Delete the ``<<<<<<<``, ``=======``, and ``>>>>>>>``, and make your change.
+6. Stage your changes and commit them.
+7. You can now merge your conflicting branches.
+
