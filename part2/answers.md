@@ -15,3 +15,4 @@ It's useful for game developers because collaborating on projects is an importan
 - pull: asking for the most up to date version of your repository, and receiving all of the changes and new files that have happened since you last pulled.
 - push: sending any changes that you've made to your repository.
 - repository: the place that stores your code and files for the project that you're currently working on. It tracks and saves all of the changes that are made to it.
+- working copy: a local repository on your computer. The changes made on your working copy won't show up in the repository unless you commit and push the changes.
