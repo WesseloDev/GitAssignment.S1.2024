@@ -29,3 +29,6 @@ It's useful for game developers because collaborating on projects is an importan
 - tortoisemerge
 - araxis
 - code compare
+
+#### 6. In a merged source code file, how does Git let you know there is a conflict?
+When you try to merge a file with conflicting changes, Git will tell you that there is a conflict in that file and will not merge the branches.
