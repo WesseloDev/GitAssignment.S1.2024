@@ -47,3 +47,6 @@ git revert makes a new commit that removes the changes of a given commit. You ca
 
 #### 9. What does git reset do, and how can you use it? 
 git reset undoes all changes made to a local repository up to a specified commit. You can use it to revert multiple commits at once and go back to a previous point.
+
+#### 10. What is the difference between git revert and git reset?
+git revert only reverts the changes of one commit. git reset can revert the changes of multiple commits.
