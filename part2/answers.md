@@ -21,3 +21,11 @@ It's useful for game developers because collaborating on projects is an importan
 #### 4. If you are working at a company, which of their policies and procedures might relate to using version control systems such as Git.
 - WHS
 - Copyright
+
+#### 5. Merge conflicts can occur while using git. List merge tools or diff tools you can use to help you merge and deal with conflicts.
+- vimdiff
+- opendiff
+- kdiff3
+- tortoisemerge
+- araxis
+- code compare
