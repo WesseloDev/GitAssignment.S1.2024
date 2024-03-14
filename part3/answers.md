@@ -22,3 +22,9 @@ Some of the best practices for creating and working with branches are:
 - Use descriptive branch names
 - Sync regularly with the main branch
 - Clean up and remove old branches
+
+#### 3. List the steps in a Git workflow that the team should follow when working on projects.
+Using the Gitflow workflow, you have multiple branches for every stage of development - for example, the main branch, which only has production ready code, the development branch, used to test and bug fix, and the staging branch, used for creating features.
+1. Create new features in the staging branch.
+2. Merge to the development branch, and test and bug fix the code.
+3. Once the code is production ready, merge to the main branch.
