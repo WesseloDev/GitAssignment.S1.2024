@@ -6,3 +6,19 @@ To install Git on a Windows system, you need to go to the git website at https:/
 To run Git on a Windows system, you need to have Windows 7 Service pack 1 or later. 
 
 If you had issues installing Git, you could contact the IT department.
+
+#### 2. Do reserach on some principles/techniques of industry standard best practices creating and working with repositorise and branches in Git.
+Some of the best practices for creating and working with repositories are:
+- Create a README file
+- Have a relevant .gitignore file
+- Use Git Large File Storage (Git LFS) for storing large files
+- Avoid using git add . without verifying what you're about to add to your repository before pushing
+- Review merge requests before accepting them
+
+Some of the best practices for creating and working with branches are:
+- Favor making branches over making forks of the repository
+- Only merge well-tested, bug-free and production-ready code into the main branch
+- Create focused branches that focus on specific tasks
+- Use descriptive branch names
+- Sync regularly with the main branch
+- Clean up and remove old branches
